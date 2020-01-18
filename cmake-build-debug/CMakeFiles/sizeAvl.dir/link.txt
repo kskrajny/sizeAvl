@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sizeAvl.dir/main.cpp.o  -o sizeAvl 

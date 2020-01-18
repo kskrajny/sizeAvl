@@ -1,0 +1,3 @@
+/home/jakub/Pulpit/2rok/sizeAvl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jakub/Pulpit/2rok/sizeAvl/cmake-build-debug/CMakeFiles/sizeAvl.dir
+/home/jakub/Pulpit/2rok/sizeAvl/cmake-build-debug/CMakeFiles/edit_cache.dir

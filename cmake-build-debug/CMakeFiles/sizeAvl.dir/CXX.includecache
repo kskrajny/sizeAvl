@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jakub/Pulpit/2rok/sizeAvl/main.cpp
+mySizeAvl.h
+/home/jakub/Pulpit/2rok/sizeAvl/mySizeAvl.h
+
+/home/jakub/Pulpit/2rok/sizeAvl/mySizeAvl.h
+bits/stdc++.h
+-
+
